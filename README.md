@@ -1,6 +1,6 @@
 # Text_Mining_Project
 
-# Sentiment analysis of Amazon 500,000 fine food reviews
+# Sentiment analysis of Amazon fine food reviews
 
 * In this project we looked at the reviews for the top 10 products from 2006 to 2012
 * Study the impact of time on the reviews
