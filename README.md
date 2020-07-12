@@ -2,8 +2,21 @@
 
 # Sentiment analysis of Amazon 500,000 fine food reviews
 
-* In this project I look at the review helpfulness and interaction between top reviewers in 
-  the comnnunity.
-* Study the impact of time on the review score
-* Perform NLP analysis on the review sentiments
-* Analyze word structures using unsupervised methods
+* In this project we looked at the reviews for the top 10 products from 2006 to 2012
+* Study the impact of time on the reviews
+* Perform sentiment analysis on the reviews
+* Analyze words using word cloud
+
+# Dependencies and packages:
+
+* Python 3.x
+* Numpy
+* Pandas
+* seaborn
+* matplotlib
+* widgets
+* interactive
+* nltk
+* sent_tokenize,word_tokenize
+* copy
+* TextBlob
