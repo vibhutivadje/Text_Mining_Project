@@ -20,3 +20,10 @@
 * sent_tokenize,word_tokenize
 * copy
 * TextBlob
+
+# Repository content:
+* Jupter notebook file: amazon_finefood_review_project1.ipynb
+* Image folder (images): containing figures in the notebook
+* General Inquiry lexicon.xls
+* README.md
+* MIT License file
