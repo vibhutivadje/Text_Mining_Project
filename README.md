@@ -30,5 +30,5 @@
 
 # Source dataset
 The zipped csv file used in this study can be downloaded from:
-* Web data: Amazon Fine Foods reviews
-* Kaggle
+* <a href="https://snap.stanford.edu/data/web-FineFoods.html">Web data: Amazon Fine Foods reviews</a>
+* <a href="https://www.kaggle.com/snap/amazon-fine-food-reviews">Kaggle</a>
